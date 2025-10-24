@@ -2,7 +2,7 @@
 
 Throughout this course, I learned how to create 3D objects and implement camera movement to explore the scene.
 
-1. How do I approach designing software?
+**1. How do I approach designing software?**
    
   I approach design by breaking it down into smaller components. For this specific project, I analyzed the 3D image and recreated it from the ground up. I focused on making the base and tray first as a start before focusing on the objects themselves, making the more difficult ones first. Then I sourced textures and finally added lighting, going back to adjust any changes for the final look.
 
